@@ -13,5 +13,5 @@ Blog:
 [](https://ayosfrontendmemo.wixsite.com/ayosfrontendmemo)
 
 Contact: 
-Email: sodeindea97@gmail.com
+Sodeindea97@gmail.com
 
