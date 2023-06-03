@@ -10,7 +10,8 @@ Rock,Paper, Scissors webpage:  http://127.0.0.1:5500/index.html
 
 
 Blog: 
-[](https://ayosfrontendmemo.wixsite.com/ayosfrontendmemo)
+
+(https://ayosfrontendmemo.wixsite.com/ayosfrontendmemo)
 
 Contact: 
 Sodeindea97@gmail.com
